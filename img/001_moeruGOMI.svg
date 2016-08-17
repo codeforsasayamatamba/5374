@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
+   width="100mm"
    height="50mm"
-   viewBox="0 0 744.09449 177.16535"
+   viewBox="0 0 354.33071 177.16535"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -28,15 +28,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="291.42857"
+     inkscape:cy="61.043008"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1707"
-     inkscape:window-height="906"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="812"
+     inkscape:window-height="405"
+     inkscape:window-x="104"
+     inkscape:window-y="104"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -55,8 +55,8 @@
      id="layer1"
      transform="translate(0,-875.19685)">
     <image
-       y="914.7912"
-       x="314.85699"
+       y="917.86218"
+       x="129.21429"
        id="image3344"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAIAAAADehTSAAAAA3NCSVQICAjb4U/gAAASrUlEQVRo
 gZV6649d13Xf77f2Pufcx7yHHHJIDUnxLerViIlttbaVuLbrtLWiFjHQ1gGC9kuBAv3QPyFA/4Ki
@@ -146,7 +146,7 @@ rnTQjRYVO99f4i77PQIrR5zyKWq1KqRn4qZq7vhMcnqPOziuZtYrWdm5GYsPV5EC0aCAJ1PH1FlU
 SUVORK5CYII=
 "
        preserveAspectRatio="none"
-       height="103.714"
-       width="107.429" />
+       height="95"
+       width="95" />
   </g>
 </svg>
